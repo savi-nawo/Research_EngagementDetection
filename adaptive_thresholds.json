@@ -1,0 +1,5 @@
+{
+  "looking_ratio_th":0.9,
+  "dwell_time_th":0.5,
+  "speed_th":10.0
+}

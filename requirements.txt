@@ -1,0 +1,18 @@
+# Core ML + CV
+torch==2.9.1+cpu
+torchvision==0.20.1+cpu
+opencv-python==4.10.0.84
+numpy==1.26.4
+matplotlib==3.9.0
+
+# Utils
+tqdm==4.66.4
+pillow==10.3.0
+
+# Optional but recommended
+scipy==1.13.1
+pyyaml==6.0.1
+
+# Tracking (for SORT/DeepSORT later)
+filterpy==1.4.5
+lapx==0.5.6
